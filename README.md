@@ -11,7 +11,7 @@
 -->
 ## I am a Passionate Software Developer👨‍💻 , have a cool interest in UX ⚡& UI development.
 ## Especially crazy to be a 👓MERN👓 stack developer and love to collaborate with cool minds.
-## Always willing to fuse with developers.👯‍♀️
+## Always willing to collaborate with developers.👯‍♀️
 
 $ -  You can reach me via my profile :
    a. linkedIn : https://www.linkedin.com/in/vedant-mule-210854219/
