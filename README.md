@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+FRONTEND || UI || REACT || JS || API
+
 - 🔭 I’m currently working on Problem-Solving and projects.
 - 👯 I’m looking to collaborate on Web projects.
 - 🤔 I’m looking for help with problem solving logics.
@@ -16,8 +18,6 @@ $ -  You can reach me via my profile :
    c. Insta    : https://www.instagram.com/muley635/?hl=bn
    4. Quora    : https://www.quora.com/profile/Vedant-Mule-8
    
-1. I am currently working on MERN stack projects and exploring it .
-2. So way to that , I am willing to collaborate with MERN cummunities and connect with related open source project communities.
-3. I am Curiously want help with DSA and interview prepeartion , coz I'm in 2nd year and want it way bigger and exceeded.
-4. You can ask me about any doubt and bug while createing and debugging application -> MERN, JS( Especially ) , python.
+1. I am currently learning and working as a FrontEnd Developer and exploring the stack technologies through it .
+2. So as, I am willing to collaborate with MERN cummunities and connect with related open source project communities.
 5. Let learn & enjoy process.
