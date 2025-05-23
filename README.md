@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-FRONTEND  || REACT || NODE.JS || API
+REACT || NODE.JS || NestJS || ExpressJs
 
-- 🔭 I’m currently working on Problem-Solving and projects.
-- 👯 I’m looking to collaborate on Web projects.
-- 🤔 I’m looking for help with problem solving logics.
-- 📫 How to reach me: Links are given below.
+- 🔭 I’m currently focused on developing full-stack web applications using the JavaScript ecosystem, with a strong emphasis on React.js for front-end development and Node.js for back-end services.
+- 👯  I’m actively seeking opportunities to collaborate on innovative web projects, where I can contribute to building scalable, efficient, and user-focused applications in real-time environments.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: All the world will go to be a digital place very soon.
 -->
